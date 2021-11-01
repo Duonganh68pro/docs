@@ -1,4 +1,6 @@
----
+---duong Hien anh...
+duonghienanh90@gmail.com
+Ctyptkt:DHA95
 title: Setting policies for your enterprise
 intro: 'You can set policies in {% data variables.product.product_name %} to reduce risk and increase quality.'
 redirect_from:
